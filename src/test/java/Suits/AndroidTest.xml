@@ -1,0 +1,7 @@
+<suite name = "test suite">
+    <test name = "android test">
+            <classes>
+                <class name = "tests.logintestfaladdin"/>
+            </classes>
+    </test>
+</suite>
